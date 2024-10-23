@@ -6,4 +6,5 @@
 This is the official repository for the dataset of the paper VideoLoRA: A Simple Baseline for Personalized Text-to-Video Generation
 
 ## Dataset
-![Alt text](./docs/st)
+![Alt text](./docs/structured_prompt.tiff)
+the dataset coming soon…
